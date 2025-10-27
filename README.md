@@ -1,9 +1,9 @@
 # DevOps Project – Git Best Practices
 
-## 📌 Overview
+##  Overview
 This project demonstrates version control along with DevOps workflow using Git, GitHub, CI/CD, and documentation practices.
 
-## ✅ Branching Strategy
+##  Branching Strategy
 | Branch | Purpose |
 |--------|---------|
 | main | Stable production-ready code |
@@ -14,15 +14,15 @@ This project demonstrates version control along with DevOps workflow using Git, 
 - Git
 - GitHub
 
-## 📍 Versioning
+##  Versioning
 We follow **semantic versioning** using Git tags:
 - v1.0 – Initial stable release
 
-## 🧩 How to Contribute
+##  How to Contribute
 1. Pull latest `dev` branch
 2. Create a feature branch from `dev`
 3. Raise a Pull Request (PR)
 4. Merge only after approvals
 
-## 📝 Documentation
+##  Documentation
 ➡ Check `docs/TASKS.md` for full project execution details.
